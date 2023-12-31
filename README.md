@@ -1,3 +1,6 @@
+⚠️ *This project is not maintained. It is a copy of the codeplex repository.*
+The github hosted project continuation can be found [here](https://github.com/JoergHoffmannatGitHub/Family.Show)
+
 # Family.Show
 
 ## What is Family.Show?
@@ -16,3 +19,6 @@ Our designers employed every trick in the WPF book– styles, resources, templat
 - Watch the [Intro video](http://web.archive.org/web/20170504160027/http://s3.amazonaws.com/vertigo/FamilyShowOverview-broadband.wmv) by Scott Stanfield of Vertigo
 - Check out the [Channel 9 interview with the development team](http://web.archive.org/web/20170504160027/http://channel9.msdn.com/showpost.aspx?postid=309873)
 - Watch the [Family.Show session given at MIX07](http://web.archive.org/web/20170504160027/http://videos.visitmix.com/MIX07/XD010) earlier this year
+
+
+[def]: https://github.com/JoergHoffmannatGitHub/Family.Show
